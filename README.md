@@ -1,11 +1,12 @@
 # Test app to Connect to Netlify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Push Existing React Application to new Github File
 	1. npx create-react-app my-react-app
 	2. Create repo on Github - should take you to instruction menu
 	3. cd my-react-app
+	
+
 git remote add origin https://github.com/perez11abel/my-react-app.git
 git branch -M main
 git push -u origin main![image](https://github.com/perez11abel/my-react-app/assets/99682743/af5aea22-e9d3-4fdf-b136-59a9e5f4667e)
